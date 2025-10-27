@@ -1,6 +1,6 @@
 ## Hi everyone 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levprost&layout=donut-vertical&theme=dark)](https://github.com/levprost/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levprost&layout=normal&theme=dark)](https://github.com/levprost/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=levprost&show_icons=true&theme=dark&hide_rank=true)
 <!--
 **levprost/levprost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
