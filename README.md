@@ -1,7 +1,7 @@
 ## Hi everyone 👋
 
-<img alt="my stats1" align-items="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levprost&layout=pie&theme=dark" />
-<img alt="my stats2" align-items="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=levprost&show_icons=true&theme=dark&rank_icon=github" />
+<img alt="my stats1" align="left" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levprost&layout=pie&theme=dark" />
+<img alt="my stats2" align="left" width="70%" src="https://github-readme-stats.vercel.app/api?username=levprost&show_icons=true&theme=dark&rank_icon=github" />
 <!--
 **levprost/levprost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
